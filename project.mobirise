@@ -5269,7 +5269,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWIFTWAKA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Order.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ebook.html\"><span class=\"mbri-tablet mbr-iconfont mbr-iconfont-btn\"></span>EBOOK PUBLICATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hardcopy.html\"><span class=\"etl-icon icon-notebook mbr-iconfont mbr-iconfont-btn\"></span>HARDCOPY PUBLICATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"editing.html\"><span class=\"etl-icon icon-book-open mbr-iconfont mbr-iconfont-btn\"></span>EDITING AND FORMATTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"conversion.html\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\"></span>PODCAST AND VIDEO CONVERSION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proofreading.html\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>PROOFREADING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cover.html\"><span class=\"socicon socicon-draugiem mbr-iconfont mbr-iconfont-btn\"></span>COVER DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publication.html\"><span class=\"etl-icon icon-layers mbr-iconfont mbr-iconfont-btn\"></span>PUBLICATION MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isbn.html\"><span class=\"socicon socicon-steam mbr-iconfont mbr-iconfont-btn\"></span>ISBN AND ISSN ISSUANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"launch.html\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>BOOK LAUNCH</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Home.html\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>BEGIN PUBLISHING</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Order.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ebook.html\"><span class=\"mbri-tablet mbr-iconfont mbr-iconfont-btn\"></span>EBOOK PUBLICATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hardcopy.html\"><span class=\"etl-icon icon-notebook mbr-iconfont mbr-iconfont-btn\"></span>HARDCOPY PUBLICATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"editing.html\"><span class=\"etl-icon icon-book-open mbr-iconfont mbr-iconfont-btn\"></span>EDITING AND FORMATTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"conversion.html\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\"></span>PODCAST AND VIDEO CONVERSION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proofreading.html\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>PROOFREADING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cover.html\"><span class=\"socicon socicon-draugiem mbr-iconfont mbr-iconfont-btn\"></span>COVER DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publication.html\"><span class=\"etl-icon icon-layers mbr-iconfont mbr-iconfont-btn\"></span>PUBLICATION MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isbn.html\"><span class=\"socicon socicon-steam mbr-iconfont mbr-iconfont-btn\"></span>ISBN AND ISSN ISSUANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"launch.html\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>BOOK LAUNCH</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>BEGIN PUBLISHING</a></li>"
         },
         {
           "_tags": [
@@ -5506,7 +5506,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SWIFTWAKA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Order.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ebook.html\"><span class=\"mbri-tablet mbr-iconfont mbr-iconfont-btn\"></span>EBOOK PUBLICATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hardcopy.html\"><span class=\"etl-icon icon-notebook mbr-iconfont mbr-iconfont-btn\"></span>HARDCOPY PUBLICATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"editing.html\"><span class=\"etl-icon icon-book-open mbr-iconfont mbr-iconfont-btn\"></span>EDITING AND FORMATTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"conversion.html\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\"></span>PODCAST AND VIDEO CONVERSION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proofreading.html\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>PROOFREADING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cover.html\"><span class=\"socicon socicon-draugiem mbr-iconfont mbr-iconfont-btn\"></span>COVER DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publication.html\"><span class=\"etl-icon icon-layers mbr-iconfont mbr-iconfont-btn\"></span>PUBLICATION MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isbn.html\"><span class=\"socicon socicon-steam mbr-iconfont mbr-iconfont-btn\"></span>ISBN AND ISSN ISSUANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"launch.html\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>BOOK LAUNCH</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Home.html\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>BEGIN PUBLISHING</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Order.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ebook.html\"><span class=\"mbri-tablet mbr-iconfont mbr-iconfont-btn\"></span>EBOOK PUBLICATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hardcopy.html\"><span class=\"etl-icon icon-notebook mbr-iconfont mbr-iconfont-btn\"></span>HARDCOPY PUBLICATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"editing.html\"><span class=\"etl-icon icon-book-open mbr-iconfont mbr-iconfont-btn\"></span>EDITING AND FORMATTING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"conversion.html\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\"></span>PODCAST AND VIDEO CONVERSION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proofreading.html\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>PROOFREADING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cover.html\"><span class=\"socicon socicon-draugiem mbr-iconfont mbr-iconfont-btn\"></span>COVER DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publication.html\"><span class=\"etl-icon icon-layers mbr-iconfont mbr-iconfont-btn\"></span>PUBLICATION MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isbn.html\"><span class=\"socicon socicon-steam mbr-iconfont mbr-iconfont-btn\"></span>ISBN AND ISSN ISSUANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"launch.html\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>BOOK LAUNCH</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>BEGIN PUBLISHING</a></li>"
         },
         {
           "_tags": [
@@ -5563,7 +5563,7 @@
           },
           "title": "SAVE YOURSELF<br>THE STRESS<br>",
           "text": "Let's turn your ideas to professionally structured electronic books that provides quality reading experiences",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>START NOW</strong></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://pearlprints.simplybook.me/v2/#book\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK APPOINTMENT</a>"
         },
         {
           "_tags": [
@@ -5763,6 +5763,13 @@
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text B": {
+              "text-align": "center",
+              "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text B": {
+              "font-size": "14px"
             }
           },
           "_anchor": "features2-2",
@@ -5787,7 +5794,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -5796,13 +5803,14 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Swift is our Bussines",
           "subtitle1": "",
-          "caption1": "<b>Our Service Solution is bassicaly design to offer speed at its meanest form, providing you the exact value you deserve.<br><br></b><br>",
+          "caption1": "<b>Our Publishing Solution is bassicaly design to offer speed at its meanest form, providing you the exact value you deserve.<br><br></b><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -5811,13 +5819,14 @@
               "name": "briefcase",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
-          "title2": "Your Deliveries are Safe and Secure with us",
+          "title2": "Your Projects are safe with PEARL",
           "subtitle2": "",
-          "caption2": "<b>We have left no stone unturned with regards to the safety of value our solution provides.<br>with&nbsp;Pearl prints&nbsp;your Safety is banked<br><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;</span></b><br>",
+          "caption2": "<b>We have left no stone unturned with regards to the safety of value our solution provides.&nbsp;with&nbsp;Pearl prints&nbsp;your Safety is banked<br><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;</span></b><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -5826,8 +5835,9 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "You can Afford Us",

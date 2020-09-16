@@ -1764,6 +1764,13 @@ h6,
 #features2-2 .mbr-cards-col:nth-child(even) .card-text {
   color: #ffffff;
 }
+#features2-2 .mbr-cards-col:nth-child(even) .card-text B {
+  text-align: center;
+  font-size: 14px;
+}
+#features2-2 .mbr-cards-col:nth-child(odd) .card-text B {
+  font-size: 14px;
+}
 #footer1-5 P {
   color: #ffffff;
 }
